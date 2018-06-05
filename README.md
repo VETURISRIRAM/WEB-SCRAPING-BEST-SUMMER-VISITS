@@ -12,4 +12,4 @@
 6) Edit the path on line no. 8 of the file.
 7) Run it.
 
-### Upon running the file, you would have a 'best_locations.csv' file exported to your working directory. Have a look at it and decide which place suits you the most to chill around in the coming days of Summer!!!
+### Upon running the file, you would have a 'best_locations.csv' file exported to your working directory. You can also view the project notebook 'Best-Locations.ipynb' where the steps of the executions involved are explained in detail. Have a look at it and decide which place suits you the most to chill around in the coming days of Summer!!!
