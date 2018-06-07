@@ -30,6 +30,7 @@ def locations():
         datasetOne.append(entries)
 
     # Fetching information
+    # Some specific entries(like the number 23) based on the website's structure
     for info in range(4, len(locationsInfo)):
         if info > 23:
             break
